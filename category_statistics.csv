@@ -1,0 +1,6 @@
+﻿,Tokens,Tokens,Tokens,Tokens,Chars/Token,Chars/Token,Chars/Token,Chars/Token,Vocab Size,Vocab Size,Vocab Size,Vocab Size
+,mean,min,max,std,mean,min,max,std,mean,min,max,std
+Категория,,,,,,,,,,,,
+Международные,570.5,529,612,47.92,2.6,2.41,2.79,0.22,92013.5,32000,151643,68854.93
+Многоязычные,414.33,373,497,71.59,3.63,2.97,3.96,0.57,206517.0,119547,250002,75318.23
+Русскоязычные,342.8,298,398,51.12,4.38,3.71,4.96,0.63,93844.6,50257,129024,39966.56
